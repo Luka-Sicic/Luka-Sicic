@@ -4,6 +4,9 @@ I'm currently working on finishing my bachelor's degree in computer science at t
 
 My current focus is on software development and embedded systems. I also develop games as a special interest.
 
+## 🏎 FESB Racing Team
+Working on the steering wheel interface and CAN communication.
+[→ fesbracingteam](https://github.com/fesbracingteam)
 <!--
 **Luka-Sicic/Luka-Sicic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
