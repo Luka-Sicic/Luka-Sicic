@@ -4,6 +4,11 @@ I'm currently working on finishing my bachelor's degree in computer science at t
 
 My current focus is on software development and embedded systems. I also develop games as a special interest.
 
+## 🛠 Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 ## 🏎 FESB Racing Team
 Working on the steering wheel interface and CAN communication.
 [→ fesbracingteam](https://github.com/fesbracingteam)
