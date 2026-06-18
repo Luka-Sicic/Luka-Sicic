@@ -4,7 +4,6 @@ I'm currently working on finishing my bachelor's degree in computer science at t
 
 My current focus is on software development and embedded systems. I also develop games as a special interest.
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luka-Sicic&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 <!--
 **Luka-Sicic/Luka-Sicic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
