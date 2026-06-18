@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm Luka Sičić, a computer science student from Split, Croatia.
+I'm currently working on finishing my bachelor's degree in computer science at the University Department of Professional Studies of the University of Split.
+
+My current focus is on software development and embedded systems. I also develop games as a special interest.
+
 
 <!--
 **Luka-Sicic/Luka-Sicic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
